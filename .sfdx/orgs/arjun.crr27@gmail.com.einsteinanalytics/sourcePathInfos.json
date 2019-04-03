@@ -1,0 +1,92 @@
+[
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553839812041,
+            "changeTime": 1553839812041,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553839812042,
+            "changeTime": 1553839812042,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553839812044,
+            "changeTime": 1553839812044,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553839812043,
+            "changeTime": 1553839812043,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\lwc",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553839812044,
+            "changeTime": 1553839812044,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553841952309,
+            "changeTime": 1553841952309,
+            "contentHash": "200b7fc2f088c669bb91843bbb228d43a807c172",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

@@ -1,0 +1,261 @@
+[
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app",
+        {
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553839812041,
+            "changeTime": 1553839812041,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553839812042,
+            "changeTime": 1553839812042,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553839812044,
+            "changeTime": 1553839812044,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553839812043,
+            "changeTime": 1553839812043,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553839812044,
+            "changeTime": 1553839812044,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage",
+        {
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1553841952309,
+            "changeTime": 1553841952309,
+            "contentHash": "200b7fc2f088c669bb91843bbb228d43a807c172",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553852507563,
+            "changeTime": 1553852507563,
+            "contentHash": "cbdfa696136718cd6dc99b78b78cd7235b69b201"
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553852507589,
+            "changeTime": 1553852507589,
+            "contentHash": "3e5fe9fe038c6ff3bd82517369aece0c4417748c"
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553852507630,
+            "changeTime": 1553852507630,
+            "contentHash": "9137393a498d7ec11a8254e035ca568ed18044d0"
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553852507621,
+            "changeTime": 1553852507621,
+            "contentHash": "097c3b4712d71c8246c93bb1bf103d7cf90868ac"
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553852507631,
+            "changeTime": 1553852507631,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1553852507652,
+            "changeTime": 1553852507652,
+            "contentHash": "bd611fc3430f3f4427ad80b8fa72bd5e3ee73684"
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\layouts\\SFDX_CICD__c-SFDX CICD Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\layouts\\SFDX_CICD__c-SFDX CICD Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3167,
+            "modifiedTime": 1553852507568,
+            "changeTime": 1553852507568,
+            "contentHash": "f8fb891ea697d35e4abdf4b9eb4f07691279b74a"
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c\\fields\\Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c\\fields\\Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 407,
+            "modifiedTime": 1553852507608,
+            "changeTime": 1553852507608,
+            "contentHash": "c148abc875561f30bf0a60f7dc0c96deabd34240"
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c\\fields\\SFDXAccount__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c\\fields\\SFDXAccount__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 535,
+            "modifiedTime": 1553852507618,
+            "changeTime": 1553852507618,
+            "contentHash": "27d108ddb210307d58f53e7381116cdad8235fac"
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c\\fields\\sfdxcontact__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c\\fields\\sfdxcontact__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 535,
+            "modifiedTime": 1553852507629,
+            "changeTime": 1553852507629,
+            "contentHash": "c1855ebc323fa388257a7c7dde610b213898c626"
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1553852507636,
+            "changeTime": 1553852507636,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c\\SFDX_CICD__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\objects\\SFDX_CICD__c\\SFDX_CICD__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2098,
+            "modifiedTime": 1553852507598,
+            "changeTime": 1553852507598,
+            "contentHash": "abdc1f4593aa6330039478b907e789234f4079b7"
+        }
+    ],
+    [
+        "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\tabs\\SFDX_CICD__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\mumallikarjunarao\\Desktop\\Mallikarjunarao\\SFDX-projects\\MyUmmangedPackage\\force-app\\main\\default\\tabs\\SFDX_CICD__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1553852507656,
+            "changeTime": 1553852507656,
+            "contentHash": "2006b13947502c656fd7a491c7ab1d7aa74cf14a"
+        }
+    ]
+]

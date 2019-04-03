@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>sfdx-cicd</fullName>
+    <description>This package explains about sfdx  Un-managed  components &amp; Attributes</description>
+    <types>
+        <members>SFDX_CICD__c.Description__c</members>
+        <members>SFDX_CICD__c.SFDXAccount__c</members>
+        <members>SFDX_CICD__c.sfdxcontact__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>SFDX_CICD__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>SFDX_CICD__c</members>
+        <name>CustomTab</name>
+    </types>
+    <types>
+        <members>SFDX_CICD__c-SFDX CICD Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>SFDX_CICD__c.All</members>
+        <name>ListView</name>
+    </types>
+    <version>45.0</version>
+</Package>
